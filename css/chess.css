@@ -1,0 +1,61 @@
+.main{
+    width: 100%;
+}
+.chessboard {
+    width: 640px;
+    height: 640px;
+    margin: 20px;
+    border: 15px solid black;
+    margin: 0 auto;
+}
+.black {
+    float: left;
+    width: 80px;
+    height: 80px;
+    background-color:grey;
+      font-size:50px;
+    
+}
+.white {
+    float: left;
+    width: 80px;
+    height: 80px;
+    background-color:white;
+    font-size:50px;
+}
+.fa-chess-bishop{
+font-size:40px;
+color:black;
+margin-left: 28%;
+margin-top: 20%;
+}
+.fa-chess-rook{
+font-size:40px;
+color:black;
+margin-left: 28%;
+margin-top: 20%;
+}
+.fa-chess-knight{
+font-size:40px;
+color:black;
+ margin-left: 28%;
+margin-top: 20%;
+ }
+ .fa-chess-king{
+font-size:40px;
+color:black;
+margin-left: 28%;
+margin-top: 20%;
+}
+.fa-chess-pawn{
+font-size:40px;
+color:black;
+margin-left: 28%;
+margin-top: 20%;
+}
+.fa-chess-queen{
+font-size:40px;
+color:black;
+margin-left: 28%;
+margin-top: 20%;
+}
